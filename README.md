@@ -11,6 +11,11 @@ Know a resource that isn't listed below? Feel free to create a new pull request,
 - https://airbnb.design/sketching-interfaces/
 - https://www.designbetter.co/design-systems-handbook
 
+### Videos
+- https://www.youtube.com/watch?v=Eq0-Sz5S9iI
+- https://www.youtube.com/watch?v=W3A33dmp17E
+- https://www.youtube.com/watch?v=VVUpVVWZULw&t=2s
+
 ### Developer Reading
 - https://medium.com/buildit/using-react-within-a-design-system-73d4bb0cc822
 
