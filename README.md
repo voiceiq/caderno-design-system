@@ -44,7 +44,7 @@ Know a resource that isn't listed below? Feel free to create a new pull request,
 ## Design System Examples
 ### Great Design System Collections
 - https://github.com/alexpate/awesome-design-systems
-- https://dribbble.com/stories/2019/02/22/what-are-design-systems
+- https://www.duolingo.com/design/
 
 ### Storybook Examples
 - https://wix-wix-style-react.surge.sh/?selectedKind=1.%20Foundation&selectedStory=1.2%20Typography&full=0&addons=0&stories=1&panelRight=0
