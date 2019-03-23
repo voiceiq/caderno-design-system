@@ -45,6 +45,10 @@ Know a resource that isn't listed below? Feel free to create a new pull request,
 ### Great Design System Collections
 - https://github.com/alexpate/awesome-design-systems
 - https://www.duolingo.com/design/
+- https://polaris.shopify.com/
+- https://www.ibm.com/design/language/
+- https://design.trello.com/
+- https://material.io/design/
 
 ### Storybook Examples
 - https://wix-wix-style-react.surge.sh/?selectedKind=1.%20Foundation&selectedStory=1.2%20Typography&full=0&addons=0&stories=1&panelRight=0
